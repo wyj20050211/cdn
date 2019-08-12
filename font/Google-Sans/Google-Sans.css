@@ -1,0 +1,11 @@
+@font-face {
+  font-display: swap;
+  font-family: 'Google Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Google Sans Regular'), local('GoogleSans-Regular'),
+    url(./Google-Sans.eot) format('embedded-opentype'),
+    url(./Google-Sans.woff2) format('woff2'),
+    url(./Google-Sans.woff) format('woff'),
+    url(./Google-Sans.ttf) format('truetype');
+}
